@@ -1,4 +1,14 @@
-### Hi there 👋
+# Halo Semua!
+
+Perkenalkan nama saya **Nandito Yuda Samosir**
+
+Saya seorang mahasiswa di [Universitas Brawijaya] (https://ub.ac.id/id/)
+
+Saya mengambil jurusan **Teknik Komputer** pada Fakultas Ilmu Komputer
+
+Saya adalah mahasiswa angkatan 2021
+
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin] (https://www.linkedin.com/in/nandito-samosir-655306264/)ku ya.
 
 <!--
 **nanditosamosir/nanditosamosir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
