@@ -8,7 +8,9 @@ I majored in **Computer Engineering** at the Faculty of Computer Science
 
 I am a student class of 2021
 
-If you are interested in getting to know me, please follow my [Linkedin] account (https://www.linkedin.com/in/nandito-samosir-655306264/).
+If you are interested in getting to know me, please follow my [Linkedin] account (linkedin.com/in/nanditosamosir/).
+
+You can contact me via email (nanditoyudasamosir@gmail.com).
 
 <p align="left">
 <a href="https://github.com/nanditosamosir">
