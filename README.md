@@ -2,10 +2,10 @@
 
 My name is **Nandito Yuda Samosir**
 
-- 🌱 I’m currently learning Machine Learning with Bangkit Academy
+- 🌱 I’m currently learning Machine Learning with Bangkit Academy.
 - ⚡ Currently I am interested in the world of Data Analyst.
 - 💬 Feel free to ask me anything.
-- 📫 How to reach me: please follow my <a href='linkedin.com/in/nanditosamosir/'>LinkedIn</a>, or you can contact my email: (nanditoyudasamosir@gmail.com)
+- 📫 How to reach me: please follow my <a href='linkedin.com/in/nanditosamosir/'>LinkedIn</a>, or you can contact my email: (nanditoyudasamosir@gmail.com).
 
 
 <p align="left">
