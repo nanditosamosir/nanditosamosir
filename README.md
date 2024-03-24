@@ -2,15 +2,10 @@
 
 My name is **Nandito Yuda Samosir**
 
-I'am a college in [Universitas Brawijaya] (https://ub.ac.id/id/)
-
-I majored in **Computer Engineering** at the Faculty of Computer Science
-
-I am a student class of 2021
-
-If you are interested in getting to know me, please follow my [Linkedin] account (linkedin.com/in/nanditosamosir/).
-
-You can contact me via email (nanditoyudasamosir@gmail.com).
+- 🌱 I’m currently learning Machine Learning with Bangkit Academy
+- ⚡ Currently I am interested in the world of Data Analyst.
+- 💬 Feel free to ask me anything.
+- 📫 How to reach me: please follow my <a href='linkedin.com/in/nanditosamosir/'>LinkedIn</a>, or you can contact my email: (nanditoyudasamosir@gmail.com)
 
 <p align="left">
 <a href="https://github.com/nanditosamosir">
@@ -21,6 +16,14 @@ You can contact me via email (nanditoyudasamosir@gmail.com).
 
 <!--
 **nanditosamosir/nanditosamosir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'am a college student in [Universitas Brawijaya] (https://ub.ac.id/id/)
+
+I majored in **Computer Engineering** at the Faculty of Computer Science
+
+If you are interested in getting to know me, please follow my [Linkedin] account (linkedin.com/in/nanditosamosir/).
+
+You can contact me via email (nanditoyudasamosir@gmail.com).
 
 Here are some ideas to get you started:
 
