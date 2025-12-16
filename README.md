@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Nandito Yuda Samosir 👋</h1>
 
 <p align="center">
-  A passionate learner with a keen interest in **Machine Learning** and **Data Analysis**.
+  A passionate learner with a keen interest in Machine Learning and Data Analysis.
 </p>
 
 <p align="center">
